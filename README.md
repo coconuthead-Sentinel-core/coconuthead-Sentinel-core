@@ -3,11 +3,11 @@
 - 👋 Hi, I'm @coconuthead-Sentinel-core
 - 🧠 AI Systems Architect & Neurodivergent-Optimized Interface Designer
 - 🔍 Currently developing multi-agent AI collaboration frameworks
-- 🌐 Orchestrating an 87-AI chatbot cohort for unified codebase implementation
+- 🌐 Orchestrating a 7-AI chatbot cohort for unified codebase implementation
 - 🧩 Specializing in distributed cognition systems with centralized coherence
 - 🔬 Exploring advanced GitHub workflows for AI collaborative development
 - 📊 Implementing the Quantum Nexus Cognitive Framework & A1 Filing System
-- 📫 Reach me through: [Your preferred contact method]
+- 📫 Reach me through: [sbryank1234@gmail.com]
 
 ## Current Projects
 
