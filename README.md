@@ -36,7 +36,52 @@
 ---
 **Ready for immediate deployment in enterprise AI orchestration, accessibility consulting, and scalable system architecture roles.**
 
+---MIT License
+
+Copyright (c) 2025 Shannon Bryan Kelly
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ---
+
+ADDITIONAL TERMS FOR PORTFOLIO SHOWCASE:
+
+This repository serves as a professional portfolio demonstrating software 
+architecture and development capabilities. While the MIT License above governs 
+the technical code components, please note:
+
+1. PORTFOLIO PURPOSE: This code is shared primarily for employment consideration, 
+   technical evaluation, and educational purposes.
+
+2. PROFESSIONAL COURTESY: If you're a potential employer, recruiter, or 
+   technical evaluator, you're welcome to review, test, and assess this code.
+
+3. ATTRIBUTION: Please maintain proper attribution to Shannon Bryan Kelly in 
+   any derivative works or professional references.
+
+4. CONTACT: For collaboration opportunities, licensing discussions, or 
+   employment inquiries, please contact: sbryank1234@gmail.com
+
+---
+
+Portfolio Last Updated: January 2025
+Repository Status: Active Development & Professional Showcase
 
 
 --->
