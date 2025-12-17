@@ -79,7 +79,7 @@ Sentinel-of-sentinel-s-Forge/
 ## 👤 Author
 
 **Shannon Bryan Kelly** (Coconut Head)  
-*Neurodivergent AI Architect*
+*Neurodivergent AI Architect*## Skill Set Matrix (VR Studios — AI-Assisted Work)This matrix documents applied skills demonstrated through AI-assisted development using VR Studios, emphasizing system design, evaluation, and accessibility.Proof: See repository artifacts, documentation, and project notes in this repo.
 
 Built in collaboration with Claude AI (Anthropic)
 
