@@ -36,14 +36,20 @@ Current estimate: 15-20% of the population is neurodivergent. Most AI tools igno
 ## 📦 Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/coconuthead-Sentinel-core/Sentinel-of-sentinel-s-Forge.git
-cd Sentinel-of-sentinel-s-Forge
+git clone https://github.com/coconuthead-Sentinel-core/coconuthead-Sentinel-core.git
+cd coconuthead-Sentinel-core
 
-# Install dependencies  
+# Install dependencies (all standard library, Python 3.8+ required)
 pip install -r requirements.txt
 
 # Run the demo
-python quantum_nexus_forge_v5_2_enhanced.py
+python demo.py
+
+# Run the main module directly
+python quantum_nexus_forge.py
+
+# Run tests
+python test_quantum_nexus_forge.py
 ```
 
 ## ✨ Core Features
@@ -66,14 +72,36 @@ python quantum_nexus_forge_v5_2_enhanced.py
 - **Spatial Cognition:** 3D coordinate system with cognitive elevation
 - **Geometric Primitives:** Tetrahedron, Cube, Octahedron, Dodecahedron, Icosahedron
 
+## 🧪 Testing
+
+The project includes a comprehensive test suite with 17 unit tests covering all major components:
+
+- **TriadicElement Tests:** Validate rule-of-three implementation
+- **HyphenatorNode Tests:** Test dynamic bridge creation and execution
+- **TriadicProcessor Tests:** Verify consensus processing algorithms
+- **GeometricPrimitive Tests:** Validate sacred geometry calculations
+- **System Integration Tests:** End-to-end testing of the complete architecture
+
+All tests pass successfully and validate the production-ready status of the codebase.
+
+```bash
+# Run all tests
+python test_quantum_nexus_forge.py
+```
+
 ## 📁 Project Structure
 ```
-Sentinel-of-sentinel-s-Forge/
-├── quantum_nexus_forge_v5_2_enhanced.py  # Main cognitive architecture
-├── demo.py                                # Demonstration script
-├── requirements.txt                       # Python dependencies
-├── __init__.py                            # Package initialization
-└── README.md                              # This file
+coconuthead-Sentinel-core/
+├── quantum_nexus_forge.py                  # Main cognitive architecture (v6.0)
+├── demo.py                                 # Demonstration script
+├── test_quantum_nexus_forge.py            # Comprehensive test suite
+├── requirements.txt                        # Python dependencies
+├── __init__.py                             # Package initialization
+├── README.md                               # This file
+├── Enhanced Quantum Nexus Forge.txt       # Original code source
+└── overview/                               # Additional documentation
+    ├── README.md                           # Technical architecture
+    └── MirrorMind_Concept_Overview.md     # Concept overview
 ```
 
 ## 👤 Author
@@ -85,7 +113,7 @@ Built in collaboration with Claude AI (Anthropic)
 
 ## 📊 Status
 
-**Production-Ready** | **Version:** 5.2.0 | **Last Updated:** November 2025
+**Production-Ready** | **Version:** 6.0.0 | **Last Updated:** December 2025
 
 ---
 
