@@ -11,6 +11,9 @@ from collections import deque
 from enum import Enum
 import math
 
+# Constants
+MAX_HEX_4_DIGITS = 0xFFFF  # Maximum value for 4 hex digits (65535)
+
 class HyphenatorType(Enum):
     """Hyphenator bridge types following COMPONENT-function() syntax"""
     MEMORY_BRIDGE = "MEMORY_BRIDGE-link()"
@@ -308,7 +311,7 @@ class EnhancedQuantumNexusForge:
         if not input_text:
             return 0.0
         h = hashlib.sha256(input_text.encode()).hexdigest()
-        return sum(int(c, 16) for c in h[:4]) / 65535.0
+        return sum(int(c, 16) for c in h[:4]) / float(MAX_HEX_4_DIGITS)
     
     def _calculate_system_resonance(self, data_result: Dict, cognitive_result: Dict, output_result: Dict) -> float:
         """Calculate overall system resonance from triadic results"""
